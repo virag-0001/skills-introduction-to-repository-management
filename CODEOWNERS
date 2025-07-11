@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @virag-0001
+/src/backend/database.py      @virag-0001
+/src/backend/routers/auth.py  @virag-0001
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @virag-0001
